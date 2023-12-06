@@ -9,17 +9,16 @@ My name is PJ0001 im a highschool student in software-development and im skilled
 - Drinking
 - Having Fun
 
+# Programming
 
-  # Programming
+I am skilled in the following Languages!
 
-  I am skilled in the following Languages!
-
-  - C
-  - C#
-  - C++
-  - LUA
-  - Python
-  - Type Script
+ - C
+- C#
+- C++
+ - LUA
+- Python
+-  Type Script
 
 
 
